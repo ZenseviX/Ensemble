@@ -19,5 +19,3 @@ env/
 Thumbs.db
 desktop.ini
 
-# Generated experiment outputs
-iris_output/

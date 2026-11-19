@@ -1,0 +1,10 @@
+สรุปผลการทดลอง Random-subspace KNN บน Iris
+=======================================================
+จำนวนข้อมูลทั้งหมด: 150
+จำนวนชุดฝึก: 120
+จำนวนชุดทดสอบ: 30
+Accuracy ของ KNN อ้างอิง: 96.67%
+Accuracy ของ Ensemble: 90.00%
+Accuracy Ensemble เฉลี่ย 30 seed: 94.67%
+Accuracy Ensemble ต่ำสุด: 83.33%
+Accuracy Ensemble สูงสุด: 100.00%
